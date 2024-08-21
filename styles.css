@@ -1,7 +1,7 @@
 *{
     margin: 0;
 }
-/*Ths styling of section one starts here */
+/*The styling of section one starts here */
 .section1{
     background-color:#1F2937 ;
     color: #E5E7EB;
@@ -55,3 +55,30 @@
     height: 100%;
 }
 
+/*The styling of section two starts here*/
+
+.section2{
+    text-align: center;
+    margin-top: 30px;
+}
+.section2 h2{
+    font-size: 36px;
+}
+
+.sectionImg{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.beautifulNature{
+    width: 150px;
+}
+.beautifulNature img{
+    width: 100%;
+    height: 130px;
+    border: 4px solid #3882F6 ;
+    border-radius: 10px;
+}
