@@ -21,6 +21,15 @@
     display: flex;
     gap: 20px;
     font-size: 18px;
+    
+}
+
+.headerLinks a{
+    color: white;
+    text-decoration: none;
+}
+.headerLinks a:hover{
+    color: #3882F6;
 }
 
 .natureIsAwesome{
